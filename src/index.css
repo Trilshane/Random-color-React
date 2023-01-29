@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Radiotechnika";
+  src: url(fonts/ofont.ru_Radiotechnika.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Radiotechnika";
+}
