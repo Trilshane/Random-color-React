@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Random-color-React/static/css/main.4cf3b483.css",
+    "main.js": "/Random-color-React/static/js/main.75f15a28.js",
+    "static/media/ofont.ru_Radiotechnika.ttf": "/Random-color-React/static/media/ofont.ru_Radiotechnika.cf5c6bb80179f5cd2393.ttf",
+    "index.html": "/Random-color-React/index.html",
+    "main.4cf3b483.css.map": "/Random-color-React/static/css/main.4cf3b483.css.map",
+    "main.75f15a28.js.map": "/Random-color-React/static/js/main.75f15a28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf3b483.css",
+    "static/js/main.75f15a28.js"
+  ]
+}
